@@ -1,0 +1,52 @@
+unicast: two devices communicating in a network but other devices do not know it and can not recive the same message
+
+types of communication
+-->point to point communication: only two devices in a network communicating
+--> one to many
+--> many to many
+
+-->full duplex
+--> half duplex
+
+advance communication
+--> unicast
+--> multicast
+-->telecast
+--> broadcast
+
+types of media
+--> guided
+--> unguided
+
+## data is transmitted through electromagnetic waves for unguided media
+
+# in cisco if there are two desktops then connect them by Copper Cross_Over
+
+ping command= packet internet groffer
+
+### ipconfig ==> command for getting the ip address of the computer
+### ping ip_addr ==> command to get info aboutth connection
+==> to check if a device is in network or not
+==> how many packets are transferred
+
+
+ICMP = interne control message protocol== to monitor the packets
+---
+in OSI
+ sender moves -> top-to-down
+ receiver moves -> bottom-to-up
+
+---
+network devices
+repeater: works like an appllifier in a network
+         - has only 2 ports
+         - green dot tells that it is on
+         - can communicate between only 2 layers
+         - limitation on br
+active hub: works in data link layer
+passive hub: works in physical layer
+hub:
+8.8.8.8 = google dns
+DNS: domain net server
+NSA: national security Authority
+gateway: that allows ping
